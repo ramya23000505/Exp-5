@@ -12,8 +12,12 @@ Create the following diagrams in StarUML:
 4) Package Diagram
 5) Communication Diagram
 6) Sequence Diagram
-7) 
+ 
 ## Actors Used
+
+1. Student
+2. Management
+3. Website
 
 ## DIAGRAMS:
 ### USE CASE DIAGRAM:
